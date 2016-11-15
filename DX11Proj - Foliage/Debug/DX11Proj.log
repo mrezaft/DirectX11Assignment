@@ -1,0 +1,102 @@
+﻿Build started 9/10/2016 5:58:29 PM.
+     1>Project "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\DX11Proj.vcxproj" on node 2 (Build target(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\fire_ps.cso" /Od /Zi Shaders\hlsl\fire_ps.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\fire_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\fire_vs.cso" /Od /Zi Shaders\hlsl\fire_vs.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\fire_vs.hlsl(65,26-41): warning X3206: implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\fire_vs.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\grass_ps.cso" /Od /Zi Shaders\hlsl\grass_ps.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\grass_ps.hlsl(85,2-59): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\grass_ps.hlsl(93,13-62): warning X3206: implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\grass_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\grass_vs.cso" /Od /Zi Shaders\hlsl\grass_vs.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\grass_vs.hlsl(68,10-99): warning X3206: 'Load': implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\grass_vs.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\ocean_ps.cso" /Od /Zi Shaders\hlsl\ocean_ps.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\ocean_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\ocean_vs.cso" /Od /Zi Shaders\hlsl\ocean_vs.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\ocean_vs.hlsl(149,15-25): warning X3206: implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\ocean_vs.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\per_pixel_lighting_ps.cso" /Od /Zi Shaders\hlsl\per_pixel_lighting_ps.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\per_pixel_lighting_ps.hlsl(87,18-45): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\per_pixel_lighting_ps.hlsl(95,12-69): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\per_pixel_lighting_ps.hlsl(100,28-42): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\per_pixel_lighting_ps.hlsl(103,12-57): warning X3206: implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\per_pixel_lighting_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\per_pixel_lighting_vs.cso" /Od /Zi Shaders\hlsl\per_pixel_lighting_vs.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\per_pixel_lighting_vs.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\reflection_map_ps.cso" /Od /Zi Shaders\hlsl\reflection_map_ps.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\reflection_map_ps.hlsl(87,18-45): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\reflection_map_ps.hlsl(95,12-70): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\reflection_map_ps.hlsl(99,28-42): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\reflection_map_ps.hlsl(103,22-67): warning X3206: implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\reflection_map_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\reflection_map_vs.cso" /Od /Zi Shaders\hlsl\reflection_map_vs.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\reflection_map_vs.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\sky_box_ps.cso" /Od /Zi Shaders\hlsl\sky_box_ps.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\sky_box_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\sky_box_vs.cso" /Od /Zi Shaders\hlsl\sky_box_vs.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\sky_box_vs.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\tree_ps.cso" /Od /Zi Shaders\hlsl\tree_ps.hlsl 
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\tree_ps.hlsl(87,18-45): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\tree_ps.hlsl(95,12-69): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\tree_ps.hlsl(99,28-42): warning X3206: implicit truncation of vector type
+     1>C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\hlsl\tree_ps.hlsl(102,12-57): warning X3206: implicit truncation of vector type
+         
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\tree_ps.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\\Shaders\cso\tree_vs.cso" /Od /Zi Shaders\hlsl\tree_vs.hlsl 
+         compilation object save succeeded; see C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Shaders\cso\tree_vs.cso
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D __GU_DEBUG_MEMORY__ /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\DX11Proj.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D __GU_DEBUG_MEMORY__ /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DX11Proj.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Box.cpp Source\DXBaseModel.cpp Source\DXController.cpp Source\DXModel.cpp Source\DXSystem.cpp Source\DXVertexBasic.cpp Source\DXVertexExt.cpp Source\DXVertexParticle.cpp Source\GUClock.cpp Source\GUConsole.cpp Source\GUMemory.cpp Source\GUObject.cpp Source\Grid.cpp Source\Ocean.cpp Source\Particles.cpp Source\Triangle.cpp Source\main.cpp
+         Skipping... (no relevant changes detected)
+         main.cpp
+         Triangle.cpp
+         Particles.cpp
+         Ocean.cpp
+         Grid.cpp
+         GUObject.cpp
+         GUMemory.cpp
+         GUConsole.cpp
+         GUClock.cpp
+         DXVertexParticle.cpp
+         DXVertexExt.cpp
+         DXVertexBasic.cpp
+         DXSystem.cpp
+         DXModel.cpp
+         DXController.cpp
+         DXBaseModel.cpp
+         Box.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Debug\DX11Proj.exe" /INCREMENTAL /NOLOGO D3DCompiler.lib DirectXTK\bin\DirectXTK.lib DXGI.lib D3D11.lib CoreStructures\CoreStructures.lib CGImport3\CGImport3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Debug\DX11Proj.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Debug\DX11Proj.lib" /MACHINE:X86 Debug\Box.obj
+         Debug\DXBaseModel.obj
+         Debug\DXModel.obj
+         Debug\DXVertexParticle.obj
+         Debug\GUConsole.obj
+         Debug\DXVertexBasic.obj
+         Debug\DXVertexExt.obj
+         Debug\DXController.obj
+         Debug\DXSystem.obj
+         Debug\GUClock.obj
+         Debug\GUMemory.obj
+         Debug\GUObject.obj
+         Debug\main.obj
+         Debug\Grid.obj
+         Debug\Ocean.obj
+         Debug\Particles.obj
+         Debug\stdafx.obj
+         Debug\Triangle.obj
+         DX11Proj.vcxproj -> C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\Debug\DX11Proj.exe
+     1>Done Building Project "C:\Users\mreza\Documents\directxuni\assignment\DX11Proj - Foliage\DX11Proj.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:45.24
